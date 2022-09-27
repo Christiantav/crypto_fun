@@ -17,4 +17,4 @@
 - Some code choices were described in the code with more optimal
   suggestions. This includes using Alembic for migrations, Airflow
   DAG for scheduled runs, use a connection pool to maintain
-  connections to DB, and more.# crypto_fun
+  connections to DB, and more.
